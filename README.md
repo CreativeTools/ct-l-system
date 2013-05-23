@@ -5,6 +5,7 @@ Lindenmayer System for 3ds Max
 
 #[Download](http://bit.ly/10mplFK)
 
+![L-System screenshot](https://raw.github.com/CreativeTools/ct-l-system/master/screenshot.png)
 ###[Video](https://vimeo.com/66795871)
 
 ##Usage
